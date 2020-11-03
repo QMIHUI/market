@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="Spring" type="spring">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../lib/spring4.3.5+mybatis3.4.6+mybatis-spring1.3.1/spring/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/spring4.3.5+mybatis3.4.6+mybatis-spring1.3.1/spring/aspectjweaver-1.8.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/spring4.3.5+mybatis3.4.6+mybatis-spring1.3.1/spring/c3p0-0.9.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/spring4.3.5+mybatis3.4.6+mybatis-spring1.3.1/spring/commons-io-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/spring4.3.5+mybatis3.4.6+mybatis-spring1.3.1/spring/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/spring4.3.5+mybatis3.4.6+mybatis-spring1.3.1/spring/mchange-commons-java-0.2.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/spring4.3.5+mybatis3.4.6+mybatis-spring1.3.1/spring/ojdbc6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/spring4.3.5+mybatis3.4.6+mybatis-spring1.3.1/spring/spring-aop-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/spring4.3.5+mybatis3.4.6+mybatis-spring1.3.1/spring/spring-aspects-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/spring4.3.5+mybatis3.4.6+mybatis-spring1.3.1/spring/spring-beans-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/spring4.3.5+mybatis3.4.6+mybatis-spring1.3.1/spring/spring-context-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/spring4.3.5+mybatis3.4.6+mybatis-spring1.3.1/spring/spring-context-support-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/spring4.3.5+mybatis3.4.6+mybatis-spring1.3.1/spring/spring-core-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/spring4.3.5+mybatis3.4.6+mybatis-spring1.3.1/spring/spring-expression-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/spring4.3.5+mybatis3.4.6+mybatis-spring1.3.1/spring/spring-jdbc-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/spring4.3.5+mybatis3.4.6+mybatis-spring1.3.1/spring/spring-orm-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/spring4.3.5+mybatis3.4.6+mybatis-spring1.3.1/spring/spring-test-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/spring4.3.5+mybatis3.4.6+mybatis-spring1.3.1/spring/spring-tx-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/spring4.3.5+mybatis3.4.6+mybatis-spring1.3.1/spring/spring-web-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/spring4.3.5+mybatis3.4.6+mybatis-spring1.3.1/spring/spring-webmvc-4.3.5.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/mysql-connector-java-5.1.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/junit/hamcrest-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/junit/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/spring4.3.5+mybatis3.4.6+mybatis-spring1.3.1/mybatis/mybatis-3.4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/spring4.3.5+mybatis3.4.6+mybatis-spring1.3.1/mybatis/mybatis-spring-1.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
